@@ -1,0 +1,30 @@
+{
+  "characters": {
+    "image": "characters.webp",
+    "text": "Characters"
+  },
+  "weapons": {
+    "image": "lightcones.webp",
+    "text": "Light Cones"
+  },
+  "gears": {
+    "image": "relics.webp",
+    "text": "Relics"
+  },
+  "readable": {
+    "image": "bookshelf.webp",
+    "text": "Readables"
+  },
+  "locations": {
+    "image": "map.webp",
+    "text": "Map"
+  },
+  "beings": {
+    "image": "beings.webp",
+    "text": "Beings"
+  },
+  "factions": {
+    "image": "factions.webp",
+    "text": "Factions"
+  }
+}
